@@ -1,12 +1,12 @@
 {
-        "name": "timnz/yii2-fuelux",
+        "name": "xemware/yii2-fuelux",
         "description": "Extension for Yii 2 to work with Fuel UX",
         "keywords": ["yii2", "extension", "fuel", "ux", "fuelux"],
         "type": "yii2-extension",
         "license": "MIT",
         "support": {
-                "issues": "https://github.com/timnz/yii2-fuelux/issues",
-                "source": "https://github.com/timnz/yii2-fuelux"
+                "issues": "https://github.com/xemware/yii2-fuelux/issues",
+                "source": "https://github.com/xemware/yii2-fuelux"
         },
         "minimum-stability": "dev",
         "authors": [

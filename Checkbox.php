@@ -6,6 +6,7 @@ use yii\helpers\ArrayHelper;
 use yii\helpers\Html;
 use yii\widgets\InputWidget;
 
+
 /**
  * @see http://exacttarget.github.io/fuelux/javascript.html#checkboxes
  * @author Leandrogehlen <leandroghelen@gmail.com>

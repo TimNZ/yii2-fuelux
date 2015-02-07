@@ -1,5 +1,5 @@
 {
-        "name": "timbz/yii2-fuelux",
+        "name": "timnz/yii2-fuelux",
         "description": "Extension for Yii 2 to work with Fuel UX",
         "keywords": ["yii2", "extension", "fuel", "ux", "fuelux"],
         "type": "yii2-extension",

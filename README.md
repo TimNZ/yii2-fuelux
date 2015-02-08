@@ -13,13 +13,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist timnz/yii2-fuelux "*"
+php composer.phar require --prefer-dist xemware/yii2-fuelux "*"
 ```
 
 or add
 
 ```
-"timnz/yii2-fuelux": "*"
+"xemware/yii2-fuelux": "*"
 ```
 
 to the require section of your `composer.json` file.
